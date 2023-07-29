@@ -55,5 +55,8 @@ if (is_admin()){
 
 ```
 
+<br /> Also: 
+<br /> https://github.com/nielsoffice/WP_registerCustomColumn
+
 <br /> Source: 
 <br /> https://www.lab21.gr/blog/wordpress-add-custom-filters-post-list-admin-area/
